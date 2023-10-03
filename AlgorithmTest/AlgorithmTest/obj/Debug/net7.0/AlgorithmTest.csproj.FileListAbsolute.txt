@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/algorithm/lab #1/AlgorithmTest/AlgorithmTest/bin/Debug/net7.0/AlgorithmTest
+/Users/user/Documents/GitHub/algorithm/lab #1/AlgorithmTest/AlgorithmTest/bin/Debug/net7.0/AlgorithmTest.deps.json
+/Users/user/Documents/GitHub/algorithm/lab #1/AlgorithmTest/AlgorithmTest/bin/Debug/net7.0/AlgorithmTest.runtimeconfig.json
+/Users/user/Documents/GitHub/algorithm/lab #1/AlgorithmTest/AlgorithmTest/bin/Debug/net7.0/AlgorithmTest.dll
+/Users/user/Documents/GitHub/algorithm/lab #1/AlgorithmTest/AlgorithmTest/bin/Debug/net7.0/AlgorithmTest.pdb
+/Users/user/Documents/GitHub/algorithm/lab #1/AlgorithmTest/AlgorithmTest/obj/Debug/net7.0/AlgorithmTest.csproj.AssemblyReference.cache
+/Users/user/Documents/GitHub/algorithm/lab #1/AlgorithmTest/AlgorithmTest/obj/Debug/net7.0/AlgorithmTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/algorithm/lab #1/AlgorithmTest/AlgorithmTest/obj/Debug/net7.0/AlgorithmTest.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/algorithm/lab #1/AlgorithmTest/AlgorithmTest/obj/Debug/net7.0/AlgorithmTest.AssemblyInfo.cs
+/Users/user/Documents/GitHub/algorithm/lab #1/AlgorithmTest/AlgorithmTest/obj/Debug/net7.0/AlgorithmTest.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/algorithm/lab #1/AlgorithmTest/AlgorithmTest/obj/Debug/net7.0/AlgorithmTest.dll
+/Users/user/Documents/GitHub/algorithm/lab #1/AlgorithmTest/AlgorithmTest/obj/Debug/net7.0/refint/AlgorithmTest.dll
+/Users/user/Documents/GitHub/algorithm/lab #1/AlgorithmTest/AlgorithmTest/obj/Debug/net7.0/AlgorithmTest.pdb
+/Users/user/Documents/GitHub/algorithm/lab #1/AlgorithmTest/AlgorithmTest/obj/Debug/net7.0/AlgorithmTest.genruntimeconfig.cache
+/Users/user/Documents/GitHub/algorithm/lab #1/AlgorithmTest/AlgorithmTest/obj/Debug/net7.0/ref/AlgorithmTest.dll
